@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"q",
+				"query"
+			],
+			[
+				"pos",
+				"post_save_course_receiver"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"COu",
+				"CourseListView"
+			],
+			[
+				"video",
+				"video_obj"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"Cate",
+				"CategoryAdmin"
+			],
+			[
+				"Vide",
+				"VideoManager"
+			],
+			[
+				"a",
+				"args"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"Le",
+				"LectureAdminForm"
+			],
+			[
+				"course",
+				"course_slug"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"cour",
+				"course_slug"
+			],
+			[
+				"create",
+				"create_slug"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"quer",
+				"queryset"
+			],
+			[
+				"V",
+				"Video"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"sl",
+				"slugify"
+			],
+			[
+				"pre",
+				"pre_save_video_receiver"
+			],
+			[
+				"Video",
+				"VideoDetailView"
+			],
+			[
+				"Home",
+				"HomeView"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/patrickcullinane/Desktop/dev/nested/nested_1/prof_nest/templates/prof_nest/edit_profile.html",
+		"/Users/patrickcullinane/Desktop/dev/nested/nested_1/nested/settings.py",
+		"/Users/patrickcullinane/Desktop/dev/nested/nested_1/prof_nest/views.py",
+		"/Users/patrickcullinane/Desktop/dev/nested/nested_1/prof_nest/forms.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/search/templates/search/snippets/search_form.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/search/templatetags/search_form.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/search/templates/search/default.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/templates/navbar.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/course_detail.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/lecture_detail.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/categories/templates/categories/category_detail.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/course_list.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/search/views.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/templates/base.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/search/templatetags/__init__.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/models.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/must_purchase.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/snippets/course_featured_display.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/snippets/course_thumbnail_display.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/categories/models.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/forms.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/course_copy.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/views.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/mixins.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/categories/views.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/srvup/settings.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/srvup/urls.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/search/urls.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/utils_copy.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/categories/admin.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/models.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/templatetags/__init__.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/templatetags/render_video.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/templates/videos/snippets/render_video.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/categories/urls.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/admin.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/categories/templates/categories/category_list.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/categories/forms.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/course_form.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/fields.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/urls.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/admin.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/templates/videos/video_confirm_delete.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/templates/courses/course_confirm_delete.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/templates/videos/video_detail.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/templates/videos/video_form.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/templates/videos/video_list.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/courses/utils.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/urls.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/views.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/templates/videos/snippets/video-search-form.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/srvup/static_in_env/js/bootstrap.min.js",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/srvup/static_in_env/css/bootstrap.min.css",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/srvup/static_in_env/css/bootstrap.min.js",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/templates/defaults/head.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/templates/defaults/scripts.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/videos/forms.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/templates/defaults/base.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/srvup/views.py",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/templates/home.html",
+		"/Users/patrickcullinane/Desktop/dev/srvup/src/roadmap.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<h1>Hello world!</h1>
+<h3>{{ block.super }}</h3>
+<p>
+	This is {% verbatim %}{{ html_var }}{% endverbatim %} coming through
+</p>
+<p>
+{% if bool_item %}
+The answer is {{ pred }}
+{% endif %}
+</p>
+<p>
+{% for some_item in some_list %}
+	{% if some_item|divisibleby:"2" %}
+		Even number
+	{% endif %}
+
+	{{ some_item }}</br>
+{% endfor %}
+</p>
+<p>Some item is {{ some_item }}</p>
+
+{% endblock content %}
